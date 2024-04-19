@@ -1,2 +1,2 @@
-# Karioz9-kmenu-sensity
+# kmenu-sensity
 leak by Karioz
